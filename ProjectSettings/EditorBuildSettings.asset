@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: cd8cdcb458a4e97469d2e7ee569ea4b7
+  - enabled: 1
+    path: Assets/Scenes/FarmScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MountainScene.unity
+    guid: 7b4486d5f464f1e4d8d7544d86c9c5d5
+  m_configObjects:
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f724a68e37f8f034aa7c3a35a72d33d9, type: 2}
